@@ -1,0 +1,2 @@
+:root{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Segoe UI',sans-serif;color:#253d34;background:#f3f5f2;font-synthesis:none;--ink:#253d34;--muted:#748078;--accent:#2f7054;--accent-soft:#e8f1eb;--surface:#ffffffcc;--line:#dce3dd;--danger:#a44536;--warn:#916227;--shadow:0 8px 35px #24392d06;--radius:22px;color-scheme:light}
+:root[data-theme=dark]{--ink:#e0e9e1;--muted:#a1b1a6;--accent:#91cba9;--accent-soft:#243e31;--surface:#1d2a23e8;--line:#38483e;--danger:#ffb2a6;--warn:#e3bc79;background:#131e18;color:var(--ink);color-scheme:dark}
